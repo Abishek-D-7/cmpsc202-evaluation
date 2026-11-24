@@ -1,6 +1,6 @@
 # Deliverable 2: Implementation and Evaluation
 
-**Team:** Lynsey Arthur, Abishek Dhakal, Jayden, Sam  
+**Team:** Lynsey Arthur, Abishek Dhakal, Jayden Wilson, Sam  
 **Date:** [TODO]  
 **Status:** Template — replace every placeholder with actual implementation details and measured results.
 
@@ -33,4 +33,4 @@ For an image of current width $w$, the proposed method takes [TODO] time per sea
 
 ## Contributions
 
-- Abishek Dhakal, Lynsey Arthur, Jayden, Sam
+- Abishek Dhakal, Lynsey Arthur, Jayden Wilson, Sam
